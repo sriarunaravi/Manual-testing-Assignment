@@ -2,6 +2,11 @@
 To verify that the critical functionalities work	          To verify that specific bug fixes or changes work
 Broad and shallow	                                          Narrow and deep
 After a new build is received	                              After minor changes or bug fixes
-Checks whether the build is stable for further testing	    Checks whether the build is enough to proceed
-Usually not documented	                                    Usually not documented
-Example	App launches, login works, basic navigation	        Verify fixed payment bug works correctly
+Checks whether the build is stable for further testing	      Checks whether the build is enough to proceed
+Usually not documented	                                      Usually not documented
+Example	App launches, login works, basic navigation	          Verify fixed payment bug works correctly
+
+
+Conclusion:
+Smoke testing checks "Is the build testable"
+Sanity testing checks "Does the specific fix work"
