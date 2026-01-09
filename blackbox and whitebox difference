@@ -1,0 +1,11 @@
+Black Box Testing	                                                            White Box Testing
+No knowledge of internal code	                                             Need Full knowledge of code
+It focus on Functionality	                                                 It focus on Internal logic & structure
+Performed by Testers	                                                     It Performed mostly by developers
+Equivalence partitioning, boundary value analysis	                         Statement, branch, path coverage
+System, Integration, Acceptance	                                           Unit testing
+Example	Checking login with valid/invalid credentials	                     Testing loops, conditions, code paths
+
+Conclusion:
+Black box tests what the system does
+White box tests how the system works
