@@ -1,0 +1,29 @@
+Levels of testing:
+                 Unit Testing
+                 Integration Testing
+                 System Testing
+                 Acceptance Testing
+Unit Testing:
+                 Tests individual units or components of the application
+                 Performed mainly by developers
+                 Focuses on internal logic and code correctness
+                 Uses white-box testing techniques
+                 Helps in early detection of defects, reducing cost
+Integration Testing:
+                 Tests interaction between integrated modules
+                 Performed after unit testing
+                 Focuses on data flow and interface issues
+                 Can be done using top-down, bottom-up, or hybrid approaches
+                 Detects defects related to module communication
+System Testing
+                 Tests the complete and integrated system
+                 Performed by testers/QA team
+                 Uses black-box testing techniques
+                 Validates both functional and non-functional requirements
+                 Conducted in an environment similar to production
+Acceptance Testing (UAT)
+                 Confirms system meets business and user requirements
+                 Performed by end users or clients
+                 Conducted after system testing
+                 Focuses on real-world business scenarios
+                 Determines final approval before release
